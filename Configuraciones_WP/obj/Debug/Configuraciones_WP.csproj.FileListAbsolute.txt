@@ -1,0 +1,14 @@
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\obj\Debug\Configuraciones_WP.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\obj\Debug\App.g.cs
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\obj\Debug\MainPage.g.cs
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\obj\Debug\Configuraciones_WP.g.resources
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\Bin\Debug\ApplicationIcon.png
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\Bin\Debug\Background.png
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\Bin\Debug\Configuraciones_WP.dll
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\Bin\Debug\Configuraciones_WP.pdb
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\obj\Debug\Settings.g.cs
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\obj\Debug\Configuraciones_WP.dll
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\obj\Debug\Configuraciones_WP.pdb
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\Bin\Debug\AppManifest.xaml
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\Bin\Debug\Configuraciones_WP.xap
+C:\Users\carlos\Desktop\Configuraciones_WP\Configuraciones_WP\obj\Debug\XapCacheFile.xml
